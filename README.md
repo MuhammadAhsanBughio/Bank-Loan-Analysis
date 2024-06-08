@@ -57,6 +57,10 @@ Utilizing advanced SQL techniques, this project involved extensive data extracti
 
 ### Interactivity
 - All three dashboards are linked with buttons for easy navigation, enabling seamless exploration of data and ensuring a user-friendly experience.
+  
+#### LINK TO [DASHBOARD][https://public.tableau.com/shared/B8M26TT5S?:display_count=n&:origin=viz_share_link]
 
 ## Conclusion
 This project demonstrates the power of combining SQL and Tableau to deliver actionable insights and enhance decision-making in banking operations. Through meticulous data extraction, transformation, and visualization, the Bank Loan Report project provides a comprehensive view of the bank's lending activities, helping to identify trends, manage risks, and optimize loan strategies.
+
+
