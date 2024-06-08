@@ -1,8 +1,14 @@
 # Bank Loan Analysis Report
 <img width="1168" alt="Screenshot 2024-06-05 at 8 55 05 pm" src="https://github.com/MuhammadAhsanBughio/Bank-Loan-Analysis/assets/139073097/be13fea5-6fce-46a3-96cd-a4c929057c87">
 
-## Overview
+## Project Overview
 The **Bank Loan Analysis Report** project is a comprehensive analysis designed to provide critical insights into a bank's lending activities, loan performance, and borrower behavior. By integrating robust SQL data analysis with advanced Tableau visualizations, this project supports data-driven decision-making within the bank’s lending operations.
+
+### Tools Used 🧰
+- SQL - [info](https://en.wikipedia.org/wiki/SQL)
+- Tableau Public - [Info](https://www.tableau.com/en-gb)
+- Azure Data Studio - To run SQL Server on Mac using Docker - [Azure Data Studio](https://azure.microsoft.com/en-gb/products/data-studio)
+- Docker Hub - To create SQL server - [Docker Hub](https://hub.docker.com/)
 
 ## Objectives
 - Monitor and assess key loan-related metrics over time.
@@ -58,7 +64,7 @@ Utilizing advanced SQL techniques, this project involved extensive data extracti
 ### Interactivity
 - All three dashboards are linked with buttons for easy navigation, enabling seamless exploration of data and ensuring a user-friendly experience.
   
-#### LINK TO [DASHBOARD][https://public.tableau.com/shared/B8M26TT5S?:display_count=n&:origin=viz_share_link]
+#### LINK TO [DASHBOARD](https://public.tableau.com/shared/B8M26TT5S?:display_count=n&:origin=viz_share_link)
 
 ## Conclusion
 This project demonstrates the power of combining SQL and Tableau to deliver actionable insights and enhance decision-making in banking operations. Through meticulous data extraction, transformation, and visualization, the Bank Loan Report project provides a comprehensive view of the bank's lending activities, helping to identify trends, manage risks, and optimize loan strategies.
