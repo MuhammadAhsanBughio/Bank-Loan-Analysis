@@ -4,7 +4,7 @@
 ## Project Overview
 The **Bank Loan Analysis Report** project is a comprehensive analysis designed to provide critical insights into a bank's lending activities, loan performance, and borrower behavior. By integrating robust SQL data analysis with advanced Tableau visualizations, this project supports data-driven decision-making within the bank’s lending operations.
 
-### Tools Used 🧰
+### Tools Used
 - SQL - [info](https://en.wikipedia.org/wiki/SQL)
 - Tableau Public - [Info](https://www.tableau.com/en-gb)
 - Azure Data Studio - To run SQL Server on Mac using Docker - [Azure Data Studio](https://azure.microsoft.com/en-gb/products/data-studio)
