@@ -1,4 +1,4 @@
-# Bank Loan Analysis Report Project
+# Bank Loan Analysis Report
 <img width="1168" alt="Screenshot 2024-06-05 at 8 55 05 pm" src="https://github.com/MuhammadAhsanBughio/Bank-Loan-Analysis/assets/139073097/be13fea5-6fce-46a3-96cd-a4c929057c87">
 
 ## Overview
