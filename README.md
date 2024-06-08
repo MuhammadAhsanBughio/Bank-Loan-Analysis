@@ -1,4 +1,5 @@
 # Bank Loan Analysis Report Project
+<img width="1168" alt="Screenshot 2024-06-05 at 8 55 05 pm" src="https://github.com/MuhammadAhsanBughio/Bank-Loan-Analysis/assets/139073097/be13fea5-6fce-46a3-96cd-a4c929057c87">
 
 ## Overview
 The **Bank Loan Analysis Report** project is a comprehensive analysis designed to provide critical insights into a bank's lending activities, loan performance, and borrower behavior. By integrating robust SQL data analysis with advanced Tableau visualizations, this project supports data-driven decision-making within the bank’s lending operations.
